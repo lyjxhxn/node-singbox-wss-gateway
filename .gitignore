@@ -1,0 +1,23 @@
+node_modules/
+.env
+.env.*
+!.env.example
+# Runtime credentials, node links, sing-box config, certificates, ACME account keys
+/data/
+/cert/
+/singbox/
+*.pem
+*.key
+*.p12
+*.pfx
+*private*.json
+ssl-config.json
+vless-config.json
+nodes.txt
+sub.txt
+subscription-url.txt
+subscription-token.txt
+*.log
+*.backup
+*.bak
+.DS_Store

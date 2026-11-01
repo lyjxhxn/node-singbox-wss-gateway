@@ -24,7 +24,7 @@
 
 ### 第一步：下载/上传文件
 
-将本仓库内容上传到 Node.js 服务的工作目录（例如 KataBump 的 `/home/container`），并确认目录结构：
+将本仓库内容上传到 Node.js 服务的工作目录，并确认目录结构：
 
 ```text
 /home/container/
